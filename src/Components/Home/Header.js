@@ -28,6 +28,9 @@ const Header = () => {
               class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
             >
               <li>
+                <Link to="/">Home</Link>
+              </li>
+              <li>
                 <Link to="/projectsDetails">Projects</Link>
               </li>
 
@@ -37,18 +40,15 @@ const Header = () => {
               <li>
                 <Link to="/blogs">Blogs</Link>
               </li>
-              <li>
-                <a>Item 4</a>
-              </li>
-              <li>
-                <a>Item 5</a>
-              </li>
             </ul>
           </div>
           <a class="btn btn-ghost normal-case text-xl">My-Portfolio</a>
         </div>
         <div class="navbar-center hidden lg:flex">
           <ul class="menu menu-horizontal p-0">
+            <li>
+              <Link to="/">Home</Link>
+            </li>
             <li>
               <Link to="/projectsDetails">Projects</Link>
             </li>
@@ -59,21 +59,25 @@ const Header = () => {
             <li>
               <Link to="/blogs">Blogs</Link>
             </li>
-            <li>
-              <a>Item 4</a>
-            </li>
-            <li>
-              <a>Item 5</a>
-            </li>
           </ul>
         </div>
         <div class="navbar-end">
           <a
-            href="https://drive.google.com/file/d/1H-MXnwNi5CsxW5gQ4dgHph-ENEYue-71/view?usp=sharing"
-            download
-            className="btn"
+            href="https://www.linkedin.com/in/md-shohag-034bb6190/"
+            className=" "
           >
-            Resume
+            <img
+              className="w-10"
+              src="https://img.icons8.com/nolan/344/linkedin-circled.png"
+              alt=""
+            />
+          </a>
+          <a href="https://github.com/MDSHOHAG617" className="">
+            <img
+              className="w-10"
+              src="https://img.icons8.com/color/344/github.png"
+              alt=""
+            />
           </a>
         </div>
       </div>

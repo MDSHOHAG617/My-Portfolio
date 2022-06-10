@@ -64,7 +64,7 @@ export default function ContactUs() {
                   name="message"
                 ></textarea>
               </div>
-              <div className="col-8 pt-3 mx-auto">
+              <div className="col-8 pt-3 mb-8 mx-auto">
                 <input type="submit" className="btn " value="Send "></input>
               </div>
             </div>

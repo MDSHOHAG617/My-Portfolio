@@ -1,5 +1,8 @@
 import React from "react";
 import prj1 from "../images/prj1.png";
+import prj21 from "../images/prj21.png";
+import prj31 from "../images/prj31.png";
+import prj41 from "../images/prj41.png";
 import { Link } from "react-router-dom";
 
 const Projects = () => {
@@ -32,10 +35,10 @@ const Projects = () => {
         </div>
         <div className="card lg:card-side bg-base-100 shadow-xl">
           <figure>
-            <img src={prj1} alt="" />
+            <img src={prj21} alt="" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Tools Ware </h2>
+            <h2 className="card-title">Perfume Gallery </h2>
             <p>
               This is a ful-stack website, in this app I work both frontend and
               backend. this is an tool store type website where you can
@@ -55,10 +58,10 @@ const Projects = () => {
         </div>
         <div className="card lg:card-side bg-base-100 shadow-xl">
           <figure>
-            <img src={prj1} />
+            <img src={prj31} alt="" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Tools Ware </h2>
+            <h2 className="card-title">The Brain Train </h2>
             <p>
               This is a ful-stack website, in this app I work both frontend and
               backend. this is an tool store type website where you can
@@ -78,10 +81,10 @@ const Projects = () => {
         </div>
         <div className="card lg:card-side bg-base-100 shadow-xl">
           <figure>
-            <img src={prj1} />
+            <img src={prj41} />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Tools Ware </h2>
+            <h2 className="card-title">Agency </h2>
             <p>
               This is a ful-stack website, in this app I work both frontend and
               backend. this is an tool store type website where you can

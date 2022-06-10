@@ -13,13 +13,20 @@ const Banner = () => {
             alt=""
           />
           <div className="">
-            <h1 class="text-5xl font-bold">Box Office News!</h1>
+            <h1 class="text-5xl font-bold">H! I am Md Shohag</h1>
             <p class="py-6">
-              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-              excepturi exercitationem quasi. In deleniti eaque aut repudiandae
-              et a id nisi.
+              Student of Shanto mariam university of creative technology.
+              Department of Computer Science and Information Technology (CSIT).
+              Learning web development, next goal is being a full stack web
+              developer.
             </p>
-            <button class="btn btn-primary">Get Started</button>
+            <a
+              href="https://drive.google.com/file/d/1H-MXnwNi5CsxW5gQ4dgHph-ENEYue-71/view?usp=sharing"
+              download
+              className="btn btn-success"
+            >
+              Resume
+            </a>
           </div>
         </div>
       </div>
