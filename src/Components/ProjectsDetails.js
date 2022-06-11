@@ -122,14 +122,12 @@ const ProjectsDetails = () => {
           </div>
           <div class="card w-96 glass mx-auto my-auto">
             <h1 className="card-title mx-auto my-5 text-white text-2xl">
-              About Tools Ware
+              About Perfume Gallery
             </h1>
             <p className="text-left ml-5 py-5">
               This is a ful-stack website, in this app I work both frontend and
-              backend. this is an tool store type website where you can
-              parches/order tools/products. for order you should must login An
-              admin can make some difference like add products delete products,
-              make others an admin etc.
+              backend. this is an perfume gallery type website where you can add
+              items delete items. for this type of thing you should must login
             </p>
           </div>
           <div class="card w-96 glass mx-auto my-auto py-8">
@@ -137,13 +135,11 @@ const ProjectsDetails = () => {
               Features and functionality
             </h1>
             <p className="text-left ml-5  ">
-              <li>used Auth state to maintain the login and sign </li>
-              <li>up Used JWT token for </li>
-              <li>verify user Payment Method by using stripe You </li>
-              <li>can order any tools </li>
-              <li>
-                from this site An Admin can manage An admin will make an admin{" "}
-              </li>
+              <li>google authentication </li>
+              <li>email password authentication</li>
+              <li>can add products </li>
+              <li>can delete products </li>
+              <li>if register then you can login your self </li>
             </p>
           </div>
           <div class="card w-96 glass mx-auto">
@@ -189,14 +185,13 @@ const ProjectsDetails = () => {
           </div>
           <div class="card w-96 glass mx-auto my-auto">
             <h1 className="card-title mx-auto my-5 text-white text-2xl">
-              About Tools Ware
+              About The Brain Train
             </h1>
             <p className="text-left ml-5 py-5">
-              This is a ful-stack website, in this app I work both frontend and
-              backend. this is an tool store type website where you can
-              parches/order tools/products. for order you should must login An
-              admin can make some difference like add products delete products,
-              make others an admin etc.
+              This is an Educational website where we can hire any teacher for
+              our students. There are various type of teachers available. Each
+              are different demanding though, but they are so much friendly and
+              helpful
             </p>
           </div>
           <div class="card w-96 glass mx-auto my-auto py-8">
@@ -204,13 +199,11 @@ const ProjectsDetails = () => {
               Features and functionality
             </h1>
             <p className="text-left ml-5  ">
-              <li>used Auth state to maintain the login and sign </li>
-              <li>up Used JWT token for </li>
-              <li>verify user Payment Method by using stripe You </li>
-              <li>can order any tools </li>
-              <li>
-                from this site An Admin can manage An admin will make an admin{" "}
-              </li>
+              <li>Create user with Email And pass </li>
+              <li>Reset password button </li>
+              <li>Protected route (using Required Auth) </li>
+              <li>Can reset password </li>
+              <li>Required input field (show firebase error) </li>
             </p>
           </div>
           <div class="card w-96 glass mx-auto">
@@ -248,27 +241,26 @@ const ProjectsDetails = () => {
           </div>
           <div class="card w-96 glass mx-auto my-auto">
             <h1 className="card-title mx-auto my-5 text-white text-2xl">
-              About Tools Ware
+              About Agency
             </h1>
             <p className="text-left ml-5 py-5">
-              This is a ful-stack website, in this app I work both frontend and
-              backend. this is an tool store type website where you can
-              parches/order tools/products. for order you should must login An
-              admin can make some difference like add products delete products,
-              make others an admin etc.
+              This is an agency type website. This website has some section like
+              services, team members, portfolio and contact. This is an simple
+              website but it's really special project for me, because it is my
+              ey first project with html and css
             </p>
           </div>
           <div class="card w-96 glass mx-auto my-auto py-8">
             <h1 className="card-title mx-auto my-5 text-white text-2xl">
-              Features and functionality
+              Used Technologies
             </h1>
             <p className="text-left ml-5  ">
-              <li>used Auth state to maintain the login and sign </li>
-              <li>up Used JWT token for </li>
-              <li>verify user Payment Method by using stripe You </li>
-              <li>can order any tools </li>
+              <li>Html5</li>
+              <li>CSS3</li>
+
               <li>
-                from this site An Admin can manage An admin will make an admin{" "}
+                It's my very first time project, this web site i made with only
+                Html and CSS{" "}
               </li>
             </p>
           </div>

@@ -41,10 +41,8 @@ const Projects = () => {
             <h2 className="card-title">Perfume Gallery </h2>
             <p>
               This is a ful-stack website, in this app I work both frontend and
-              backend. this is an tool store type website where you can
-              parches/order tools/products. for order you should must login An
-              admin can make some difference like add products delete products,
-              make others an admin etc.{" "}
+              backend. this is an perfume gallery type website where you can add
+              items delete items. for this type of thing you should must login{" "}
             </p>
             <div className="card-actions justify-end">
               <Link
@@ -63,11 +61,10 @@ const Projects = () => {
           <div className="card-body">
             <h2 className="card-title">The Brain Train </h2>
             <p>
-              This is a ful-stack website, in this app I work both frontend and
-              backend. this is an tool store type website where you can
-              parches/order tools/products. for order you should must login An
-              admin can make some difference like add products delete products,
-              make others an admin etc.{" "}
+              This is an Educational website where we can hire any teacher for
+              our students. There are various type of teachers available. Each
+              are different demanding though, but they are so much friendly and
+              helpful{" "}
             </p>
             <div className="card-actions justify-end">
               <Link
@@ -86,11 +83,10 @@ const Projects = () => {
           <div className="card-body">
             <h2 className="card-title">Agency </h2>
             <p>
-              This is a ful-stack website, in this app I work both frontend and
-              backend. this is an tool store type website where you can
-              parches/order tools/products. for order you should must login An
-              admin can make some difference like add products delete products,
-              make others an admin etc.{" "}
+              This is an agency type website. This website has some section like
+              services, team members, portfolio and contact. This is an simple
+              website but it's really special project for me, because it is my
+              ey first project with html and css{" "}
             </p>
             <div className="card-actions justify-end">
               <Link
